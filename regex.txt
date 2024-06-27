@@ -1,0 +1,19 @@
+1. ^[a-z\d_.]+\@[a-z]+\.[a-z]+$ (angel_spasov555@gmail.com)
+
+2. ^(?=.*[a-z])(?=.*[A-Z])(?=.*[\d])(?=.*[!@#$%&^*])[a-zA-Z\d!@#$%&^*]{15,} (myPassword123$#)
+
+3. ^[^A-Z!#$%^&*]+\@[^A-Z!#$%^&*.]+\.[a-z]+$ (angel@yahoo.com)
+
+4. ^[a-zA-Z]+\s[A-Za-z!]+$ (Hello World!)
+
+5. ^(?=.*[A-Z])(?=.*[a-z])(?=.*[\d])[A-Za-z\d]{8,} (Angel505)
+
+6. ^(?=.*[A-Z])(?=.*[a-z])(?=.*[_.])[A-Za-z_.]{12} (Angel_Spasov)
+
+7. ^(?=.*[^A-Z\d])[^A-Z\d]{10,} (angelspasovv)
+
+8. ^[A-Z]\.[A-Za-z]+\s[A-Za-z]+$ (A.Angel Spasov)
+
+9. ^(?=.*[A-Z])[A-Za-z,!\d\s]+$ (Hello Everybody, My name is Angel!)
+
+10. ^[^A-Z_.!@#$%^&*]{10} (0123456abc)
